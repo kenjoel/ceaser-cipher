@@ -1,0 +1,2 @@
+class cipherTest extends cipher {
+}
